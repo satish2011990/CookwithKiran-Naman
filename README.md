@@ -49,6 +49,7 @@ Rooted in the rich culinary heritage of Uttar Pradesh, our channel celebrates th
 **Transform your kitchen into a "Jhakas" restaurant – one tasty dish at a time!**
 
 ### 👆 **Take Action Now:**
+
 1. 🔴 **Subscribe** to our channel: [CookwithKiran-Naman](https://www.youtube.com/@Kiran_Verma2612_Cook/shorts)
 2. 🔔 **Hit the bell icon** for instant notifications
 3. 👍 **Like** your favorite recipes
@@ -72,6 +73,7 @@ Rooted in the rich culinary heritage of Uttar Pradesh, our channel celebrates th
 ---
 
 ### 📱 Connect With Us
+
 - **YouTube Channel**: [CookwithKiran-Naman](https://www.youtube.com/@Kiran_Verma2612_Cook/shorts)
 - **Subscribe Count**: 1.32K+ (and growing!)
 - **Video Library**: 446+ recipes and counting
