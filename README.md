@@ -57,6 +57,7 @@ Rooted in the rich culinary heritage of Uttar Pradesh, our channel celebrates th
 5. 📤 **Share** with friends and family who love good food
 
 ### 🌟 **Why Subscribe Today?**
+
 - **Never miss** a new recipe or cooking tip
 - **Be part** of our supportive cooking community
 - **Access** exclusive content and behind-the-scenes moments
@@ -80,3 +81,25 @@ Rooted in the rich culinary heritage of Uttar Pradesh, our channel celebrates th
 - **Location**: Uttar Pradesh, India 🇮🇳
 
 *Ready to turn your home kitchen into a culinary paradise? Let's cook together!* 🎉
+
+---
+
+## 🏷️ Hashtags
+
+Help us reach more food lovers! Use these hashtags when sharing our content:
+
+### For YouTube & Social Media:
+- **#CookwithKiranNaman** - Our main channel hashtag
+- **#IndianCooking** - Authentic Indian cuisine and recipes
+- **#UPCuisine** - Traditional Uttar Pradesh flavors
+- **#HomeCooking** - Simple recipes for home kitchens
+- **#YouTubeCooking** - Cooking tutorials and tips
+- **#DesiFood** - Traditional Indian food culture
+- **#FoodLovers** - For passionate food enthusiasts
+
+### For GitHub & Tech Community:
+- **#cooking-recipes** - Recipe documentation and guides
+- **#indian-cuisine** - Indian cooking methods and techniques
+- **#food-tech** - Technology meets cooking
+- **#open-source-recipes** - Shared cooking knowledge
+- **#culinary-arts** - Professional cooking techniques
